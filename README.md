@@ -5,3 +5,6 @@
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedaguerre111&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedaguerre111&size_weight=0.5&count_weight=0.5&theme=dracula)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF5A7F&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/HenriqueDaguerre111/HenriqueDaguerre111/output/snake.svg" alt="Snake animation" />
+
+###
