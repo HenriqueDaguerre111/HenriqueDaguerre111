@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henriquedaguerre111" alt="henriquedaguerre111" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
-
+- 
 
 
 - 📫 How to reach me **hdfigueiredo@outlook.com**
