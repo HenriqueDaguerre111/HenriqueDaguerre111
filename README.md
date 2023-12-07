@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Python**
+
 
 - 📫 How to reach me **hdfigueiredo@outlook.com**
 
